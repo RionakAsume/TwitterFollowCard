@@ -38,5 +38,5 @@ interface TwitterFollowCardProps {
   formatUserName: (userName: string) => string;
   userName: string;
   name: string;
-  isfollowing: boolean;
+ 
 }
